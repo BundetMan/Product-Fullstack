@@ -103,7 +103,7 @@ react-crud-app/node_modules/
 .DS_Store
 Thumbs.db
 
-📄 License
+#📄 License
 This project is open-source and available under the MIT License.
 
 🙌 Credits
