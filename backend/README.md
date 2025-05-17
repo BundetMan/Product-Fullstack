@@ -87,23 +87,23 @@ Environment variables in Railway will automatically be injected into your contai
 | `APP_ENV`     | ✅        | `development` or `production`   |
 | `WEBHOOK_URL` | ✅        | API webhook endpoint (optional) |
 
-🧹 .gitignore Example
-# Environment
+##🧹 .gitignore Example
+ Environment
 .env
 
-# Vendor folder
+ Vendor folder
 /vendor/
 
-# Node modules
+ Node modules
 react-crud-app/node_modules/
 
-# IDE/Editor files
+ IDE/Editor files
 .idea/
 .vscode/
 .DS_Store
 Thumbs.db
 
-#📄 License
+📄 License
 This project is open-source and available under the MIT License.
 
 🙌 Credits
