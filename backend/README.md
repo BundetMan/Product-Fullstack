@@ -34,6 +34,8 @@ product-service-app/
 bash
 git clone https://github.com/BundetMan/Product-Service-deploy
 cd product-service-app
+You can also clone the whole project include both frontend and backend 
+git clone https://github.com/BundetMan/Product-Fullstack.git
 2. Install PHP Dependencies
 composer install
 3. Set Up Environment Variables
