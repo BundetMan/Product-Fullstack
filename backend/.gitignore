@@ -1,0 +1,13 @@
+# environment variables
+# This file is used to ignore files and directories that should not be tracked by Git.
+.env
+# Composer vendor folder
+/vendor/
+
+# IDE/editor folders
+.idea/
+.vscode/
+
+# OS/system files
+.DS_Store
+Thumbs.db
