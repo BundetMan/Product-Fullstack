@@ -87,7 +87,7 @@ Environment variables in Railway will automatically be injected into your contai
 | `APP_ENV`     | ✅        | `development` or `production`   |
 | `WEBHOOK_URL` | ✅        | API webhook endpoint (optional) |
 
-##🧹 .gitignore Example
+🧹 .gitignore Example
  Environment
 .env
 
