@@ -31,7 +31,7 @@ product-service-app/
 
 ### 1. Clone the Repository
 
-```bash
+bash
 git clone https://github.com/BundetMan/Product-Service-deploy
 cd product-service-app
 2. Install PHP Dependencies
@@ -52,7 +52,7 @@ Start the PHP server:
 php -S localhost:8080 -t public
 Visit http://localhost:8080
 
-⚛️ React Frontend (Optional)
+### ⚛️ React Frontend (Optional)
 If you're using the react-crud-app frontend:
 1. Install Node Modules
 cd react-crud-app
